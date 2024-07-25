@@ -12,7 +12,7 @@
   "dependencies": {
     "@formkit/auto-animate": "^0.8.2",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
-    "axios": "^1.4.0",
+    "axios": "^1.7.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
