@@ -169,7 +169,7 @@ h3 {
 }
 
 .grid-item:nth-child(1) {
-  background: linear-gradient(rgba(43, 42, 42, 0.404), rgba(0, 0, 0, 0.123)), url('src/assets/icons/sluzby-grid/bg_ext.JPEG') no-repeat center;
+  background: linear-gradient(rgba(43, 42, 42, 0.404), rgba(0, 0, 0, 0.123)), url("C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\sluzby-grid\bg_ext.JPEG") no-repeat center;
   background-size: cover;
   margin-top: 40%;
   height: 60%;

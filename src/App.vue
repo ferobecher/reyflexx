@@ -9,7 +9,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <RouterLink :to="{ path: '/', hash: '#domov' }" >DOMOV</RouterLink>
           <RouterLink :to="{ path: '/', hash: '#onas' }">O NÁS</RouterLink>
           <a href="/">
-            <img class="logo" src="src/assets/icons/logo.png">
+            <img class="logo" src="C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\logo.png">
           </a>
           <RouterLink :to="{ path: '/', hash: '#sluzby' }">SLUŽBY</RouterLink>
           <RouterLink :to="{ path: '/', hash: '#kontakt' }">KONTAKT</RouterLink>

@@ -17,7 +17,7 @@ function scrollToSection(sectionId) {
     <button class="btn-sluzby" @click="scrollToSection('sluzby')">SLUŽBY</button>
     </div>
     <div class="hero-image">
-      <img src="src/assets/icons/hero.png"> 
+      <img src="C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\hero.png"> 
       <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="blob">
         <path fill="#061FFF" d="M57.1,-64.1C73.2,-54.6,84.8,-35.8,85.2,-17.4C85.5,0.9,74.5,18.8,61.5,29.9C48.4,40.9,33.2,45.1,17,54.4C0.8,63.6,-16.4,78,-31.2,76.6C-46,75.2,-58.4,58,-60.7,41.2C-63.1,24.4,-55.4,8,-47.9,-4C-40.5,-15.9,-33.2,-23.4,-25.3,-34.4C-17.3,-45.4,-8.7,-59.8,5.9,-66.8C20.5,-73.9,41,-73.6,57.1,-64.1Z" transform="translate(100 100)" />
       </svg>
