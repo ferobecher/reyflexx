@@ -1,6 +1,6 @@
 <script>
 import { eventBus } from '../eventBus.js';
-import Lightbox from '@/components/Lightbox.vue';
+import Lightbox from '@/components/lightbox.vue';
 
 export default {
   components: {
