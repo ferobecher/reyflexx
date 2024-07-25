@@ -20,9 +20,9 @@ export default {
 
 <template>
     <div>
-        <img class="front" src="C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\projektovanie.png">
-        <img class="behind-right" src="C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\projektovanie.png">
-        <img class="behind-left" src="C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\projektovanie.png">
+        <img class="front" src="@\assets\icons\projektovanie.png">
+        <img class="behind-right" src="@\assets\icons\projektovanie.png">
+        <img class="behind-left" src="@\assets\icons\projektovanie.png">
         <h2>Kvalitné <mark>PROJEKTOVANIE</mark> <br>je základ úspešnej stavby</h2>
         <p> Ponúkame kompletnú 2D projekciu, <br>3D vizualizáciu a administratívu.</p>
         <button @click="openLightBox(0)">GALÉRIA</button>

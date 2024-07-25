@@ -169,14 +169,14 @@ h3 {
 }
 
 .grid-item:nth-child(1) {
-  background: linear-gradient(rgba(43, 42, 42, 0.404), rgba(0, 0, 0, 0.123)), url("C:\Users\Ja\Desktop\Projects\reyflexx_v2\src\assets\icons\sluzby-grid\bg_ext.JPEG") no-repeat center;
+  background: linear-gradient(rgba(43, 42, 42, 0.404), rgba(0, 0, 0, 0.123)), url('@/assets/icons/sluzby-grid/bg_ext.JPEG') no-repeat center;
   background-size: cover;
   margin-top: 40%;
   height: 60%;
   width: 110%;
 }
   .grid-item:nth-child(2) {
-  background: linear-gradient(rgba(66, 66, 66, 0.493), rgba(0, 0, 0, 0.3)), url('src/assets/icons/hero.png') no-repeat center;
+  background: linear-gradient(rgba(66, 66, 66, 0.493), rgba(0, 0, 0, 0.3)), url('@/assets/icons/hero.png') no-repeat center;
   background-size: cover;
   margin-left: 10%;
   margin-top: 15%;
@@ -184,14 +184,14 @@ h3 {
 }
 
 .grid-item:nth-child(3) {
-  background: linear-gradient(rgba(54, 54, 54, 0.438), rgba(0, 0, 0, 0.3)), url('src/assets/icons/sluzby-grid/bg_int.JPEG') no-repeat;
+  background: linear-gradient(rgba(54, 54, 54, 0.438), rgba(0, 0, 0, 0.3)), url('@/assets/icons/sluzby-grid/bg_int.JPEG') no-repeat;
   background-size: cover;
   margin-left: 30%;
   width: 60%;
 }
 
 .grid-item:nth-child(4) {
-  background: linear-gradient(rgba(65, 64, 64, 0.685), rgba(49, 49, 49, 0.397)), url('src/assets/icons/sluzby-grid/bg_drevo.JPG') no-repeat;
+  background: linear-gradient(rgba(65, 64, 64, 0.685), rgba(49, 49, 49, 0.397)), url('@/assets/icons/sluzby-grid/bg_drevo.JPG') no-repeat;
   background-size: cover;
   margin-left: -10%;
   width: 80%;
