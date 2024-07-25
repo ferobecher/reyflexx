@@ -13,6 +13,7 @@
     "@formkit/auto-animate": "^0.8.2",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "axios": "^1.4.0",
+    "express": "^4.19.2",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
